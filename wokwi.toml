@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/led-project.uf2'
+elf = 'build/led-project.elf'
